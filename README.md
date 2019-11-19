@@ -1,2 +1,3 @@
 # CC2019
-Cognitive Computing
+## Cognitive Computing
+* **HW1**: [Edge Detection]()
